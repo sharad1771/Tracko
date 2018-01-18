@@ -16,9 +16,9 @@ public class SignUp {
 
 	WebDriver driver;
 
-	String username = "almaaa";
-	String email = "almaaa@gmail.com";
-	String mobilenumber = "9765431010";
+	String username = "alq";
+	String email = "alq@gmail.com";
+	String mobilenumber = "9765431020";
 	String password = "qwerty34";
 	String repassword = "qwerty34";
 	String otp = "123456";

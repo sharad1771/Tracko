@@ -1,0 +1,15 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!DOCTYPE suite SYSTEM "http://testng.org/testng-1.0.dtd">
+<suite verbose="0" name="Failed suite [Suite]" parallel="tests">
+  <test name="Test1(failed)" parallel="tests">
+    <classes>
+      <class name="tracko.product.Tracko.SetupBrowser">
+        <methods>
+          <include name="afterTest"/>
+          <include name="runall"/>
+          <include name="beforetest"/>
+        </methods>
+      </class> <!-- tracko.product.Tracko.SetupBrowser -->
+    </classes>
+  </test> <!-- Test1(failed) -->
+</suite> <!-- Failed suite [Suite] -->
